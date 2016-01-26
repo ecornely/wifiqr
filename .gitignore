@@ -7,3 +7,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+out
+src/test/java/wifiqr/perso
+.classpath
+.project
+.settings
